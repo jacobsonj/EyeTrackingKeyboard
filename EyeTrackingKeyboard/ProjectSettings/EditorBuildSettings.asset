@@ -4,7 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EyeTrackingExperiment.unity
+    guid: 9b194fa4579b01449b772b4d23bd2c5f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb5c45e95e762924a929bf74303ed0ab, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b2acc41b4eda9414082d26c6e805e7dc, type: 2}
+  m_UseUCBPForAssetBundles: 0
